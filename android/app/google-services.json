@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536588034564",
+    "project_id": "nerpogram1",
+    "storage_bucket": "nerpogram1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536588034564:android:3f4899572ef55811860b51",
+        "android_client_info": {
+          "package_name": "com.example.nerpogram1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536588034564-mphj0sjcu0v2mrvh9ru78rqeem76hnr4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nerpogram1",
+            "certificate_hash": "db1136432f14d2432c66b6fae7567b6db01255fd"
+          }
+        },
+        {
+          "client_id": "536588034564-p41345uk1r84opf891rujdjhd2ipr79l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8zseUwjOJ_LDFe34R-hdXDoVN60a33oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536588034564-p41345uk1r84opf891rujdjhd2ipr79l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
